@@ -2,7 +2,7 @@
 const mongoose=require('mongoose');
 
 // connect to the database
-mongoose.connect('mongodb://localhost/uploadcsvfile');
+mongoose.connect('mongodb://localhost/UploadCsvFile');
 
 // acquire the connection to check if it is successfully
 const db=mongoose.connection;

@@ -1,0 +1,10 @@
+.CSVDetails {
+  background-color: #00000029 !important; }
+  .CSVDetails #myTable_wrapper {
+    max-height: 80vh !important; }
+    .CSVDetails #myTable_wrapper table tr {
+      background-color: #ffffff33 !important; }
+  .CSVDetails h3 {
+    color: #e56868;
+    text-shadow: -8px 3px 15px #0000007a;
+    font-family: cursive; }

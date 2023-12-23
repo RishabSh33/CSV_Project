@@ -4,5 +4,30 @@ main{
         margin:auto;
         width: 80%;
         height: 100%;
+        border-radius: 25px;
+        box-shadow: -4px 5px 8px 0px #727778;
+        background: #8164b85e;
+        h1{
+            border-top-right-radius: 21px 21px;
+            border-top-left-radius: 21px 21px;
+            font-family: 'Indie Flower', cursive;;
+            color: white!important;
+            text-shadow: -7px 5px 14px #000000c7;
+        }
+        .bg-info-subtle {
+            background-color: #e56868!important;
+        }
+        input[type="submit"]{
+            box-shadow: -4px 5px 8px 0px #727778;
+            color: white;
+            font-weight: bold;
+        }
+    }
+    .container{
+        .uploadedCSv{
+            background-color: #212624ab!important;
+            font-family: cursive;
+            border-radius: 14px;
+        }
     }
 }
